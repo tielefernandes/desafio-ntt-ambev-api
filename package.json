@@ -1,0 +1,22 @@
+{
+  "name": "desafio-ntt-ambev-api",
+  "version": "1.0.0",
+  "description": "Projeto automação de testes de API para vaga da empresa NTT Data e cliente Ambev",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tielefernandes/desafio-ntt-ambev-api.git"
+  },
+  "author": "Tiele Fernandes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tielefernandes/desafio-ntt-ambev-api/issues"
+  },
+  "homepage": "https://github.com/tielefernandes/desafio-ntt-ambev-api#readme",
+  "devDependencies": {
+    "cypress": "^13.17.0"
+  }
+}
