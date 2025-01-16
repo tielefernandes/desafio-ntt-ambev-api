@@ -1,0 +1,10 @@
+{
+    "usuarioValido": {
+        "email": "tielefernandes@gmail.com",
+        "password": "Senha@123"
+    },
+    "usuarioSenhaInvalida": {
+        "email": "tielefernandes@gmail.com",
+        "password": "senha_errada"
+    }
+}
